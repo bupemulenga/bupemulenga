@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bupe
 - 👀 I’m interested in learning cool technologies and languages that can help me build software solutions for everyone.
-- 🌱 I’m currently learning technologies and languages like Javascript,Typescript, ReactJS, NextJS, Python and the Java Ecosystem. For infrastructure, i am building my knowledge and skills on Docker (and Kubernetes) and looking to embark on a new learning journey with API technologies such as GraphQL.
+- 🌱 I’m currently learning technologies and languages like Javascript, ReactJS, Python and the Java Ecosystem. For infrastructure, i am building my knowledge and skills on Docker and looking to embark on a new learning journey with API technologies such as GraphQL.
 - 💞️ I’m looking to collaborate on projects that give me meaning and bring about impactful change.
 - 📫 How to reach me, you can follow me on twitter using @real_Buchi13 and connect me on LinkedIn at Bupe Mulenga.
 
